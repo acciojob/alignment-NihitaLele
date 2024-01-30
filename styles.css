@@ -5,6 +5,12 @@
 	border:1px solid black;
 	padding:1px;
 }
-.t11{
-	text-align:left;
+tr{
+	padding: 1px;
+}
+td{
+	border: 1px solid rgb(0, 0, 0);
+}
+img{
+	text-align: center; 
 }
